@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 19 Feb 2025 22:57:56 at https://sites.google.com/view/c0ntr0l/home +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sites.google.com/view/c0ntr0l/home -O1 "C:\My Web Sites\Unblockedsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:01:29	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/POST (from https://sites.google.com/view/c0ntr0l/home)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/g4m3s/actionadventure-gxmes/n-gon?authuser=1 (from https://sites.google.com/view/c0ntr0l/home)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pr0x13s/d0g3-undl0ck3r?authuser=1 (from https://sites.google.com/view/c0ntr0l/home)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/m0v13s/m0v1e-web?authuser=1 (from https://sites.google.com/view/c0ntr0l/home)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/os-3mulators/POST (from https://sites.google.com/view/c0ntr0l/pages/os-3mulators/m1nd0ws)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/mov13s/POST (from https://sites.google.com/view/c0ntr0l/pages/mov13s/m0v1e-web)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/POST (from https://sites.google.com/view/c0ntr0l/pages/pr0x13s)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/pr0x13s/POST (from https://sites.google.com/view/c0ntr0l/pages/pr0x13s/aby)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/apps/POST (from https://sites.google.com/view/c0ntr0l/pages/apps/d1sc0rd)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/apps/'https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' (from https://sites.google.com/view/c0ntr0l/pages/apps/d1sc0rd)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/scripts/undlocking/POST (from https://sites.google.com/view/c0ntr0l/pages/scripts/undlocking/aboutblank-opener)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/scripts/undlocking/${prompt('enter (from https://sites.google.com/view/c0ntr0l/pages/scripts/undlocking/embedded-undlocker)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/scripts/fun/POST (from https://sites.google.com/view/c0ntr0l/pages/scripts/fun/fake-error)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/scripts/misc/POST (from https://sites.google.com/view/c0ntr0l/pages/scripts/misc/inspect-element)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/scripts/cheating/POST (from https://sites.google.com/view/c0ntr0l/pages/scripts/cheating/quizlet-hacks)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/ai/POST (from https://sites.google.com/view/c0ntr0l/pages/ai/chatgpt)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/3xplo1ts/POST (from https://sites.google.com/view/c0ntr0l/pages/3xplo1ts/3xpl01ts)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/actionadventure-gxmes)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/actionadventure-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/actionadventure-gxmes/ascii-space)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/actionadventure-gxmes/henry-stickman-collection/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/actionadventure-gxmes/henry-stickman-collection/1-breaking-the-bank)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/platformer-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/platformer-gxmes/crossy-road)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/puzzle-games/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/puzzle-games/game-inside-a-game)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/misc-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/misc-gxmes/star-wars-3d)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/bullet-hell-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/bullet-hell-gxmes/10-bullets)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/shooter-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/shooter-gxmes/station-141)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/idle-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/idle-gxmes/cookie-clicker)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/simulator-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/simulator-gxmes/asteroid-launcher)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/io-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/io-gxmes/1v1-lol)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/rhythm-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/rhythm-gxmes/fnf)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/sports-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/sports-gxmes/retro-bowl)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/horror-games/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/horror-games/among-us)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/text-based-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/text-based-gxmes/you-are-jeff-bezos)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/racing-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/racing-gxmes/cyber-city-driver)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/retro-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/retro-gxmes/minesweeper)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/sandbox-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/sandbox-gxmes/minecraftjs)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/maze-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/maze-gxmes/astray)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/tower-defense-gxmes/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/tower-defense-gxmes/slime-rush-td)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/g4m3s/m1n3craft/POST (from https://sites.google.com/view/c0ntr0l/pages/g4m3s/m1n3craft/eaglercraft)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/apks/POST (from https://sites.google.com/view/c0ntr0l/pages/apks/installing-apks)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/pages/apks/pojavlauncher/POST (from https://sites.google.com/view/c0ntr0l/pages/apks/pojavlauncher/server-list)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/about/POST (from https://sites.google.com/view/c0ntr0l/about/partners)
+23:09:39	Error: 	"Not Found" (404) at link https://sites.google.com/view/c0ntr0l/info/POST (from https://sites.google.com/view/c0ntr0l/info/alt-links)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 43 seconds : 364 links scanned, 321 files written (195977935 bytes overall) [17744592 bytes received at 25241 bytes/sec], 221740664 bytes transferred using HTTP compression in 362 files, ratio 7%
+(42 errors, 0 warnings, 0 messages)
